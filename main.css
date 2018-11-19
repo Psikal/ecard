@@ -13,16 +13,12 @@ section {
 	height: auto;
 }
 
-p {
-	margin: 0.25rem !important;
-}
+p {margin: 0.25rem !important;}
 
-a {
-	text-decoration: none;
-}
+a {text-decoration: none;}
 
 img {
-	display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     max-height: 100%;
@@ -118,29 +114,17 @@ img.profile-pic {
 	width: 100%;
 }
 
-.name-title-company {
-	height: 100%;
-}
+.name-title-company {height: 100%;}
 
-.banner {
-	height: 30%;
-}
+.banner {height: 30%;}
 
-.primary-info {
-	height: 15%;
-}
+.primary-info {height: 15%;}
 
-.secondary-info {
-	height: 8%;
-}
+.secondary-info {height: 8%;}
 
-.bg-color-grey {
-	background-color: #F2F2F2;
-}
+.bg-color-grey {background-color: #F2F2F2;}
 
-.bg-color-white {
-	background-color: white;
-}
+.bg-color-white {background-color: white;}
 
 .text-name {
     font-family: 'Lato', sans-serif;
@@ -175,7 +159,7 @@ img.profile-pic {
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Lato', sans-serif;
 	color: white;
 	font-weight: 300;
 }
