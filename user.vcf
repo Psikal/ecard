@@ -1,14 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Panagiotis;Sikalidis;;;
 FN: Panagiotis Sikalidis 
-ORG:Panagiotis Sikalidis Ltd;
+ORG:Panagiotis Sikalidis & Co GP;
 TITLE:Commercial Agent\nRefractories Engineer
 EMAIL;type=INTERNET;type=WORK;type=pref:sikalidis@mail.ru
-TEL;type=WORK;type=VOICE:+30-6994-199000
-item1.ADR;type=WORK;type=pref:;;Limni Evias\nGr-340 05 Limni\, Greece;;; ;
-item1.X-ABADR:sg
-item2.URL;type=pref:coming soon
+TEL;type=WORK;type=pref:+30 22270 32709
+TEL;type=CELL:+30 6994 199000
+TEL;type=HOME:+30 22270 32709
+TEL;type=WORK:+30 22270 32709
+item1.ADR;type=WORK:;;Limni Evias;Gr-340 05 Limni;Greece
+item1.X-ABADR:gr
+item2.URL;type=pref:http\:coming soon
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
