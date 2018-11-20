@@ -3,14 +3,14 @@ VERSION:3.0
 N:Panagiotis;Sikalidis;;;
 FN: Panagiotis Sikalidis 
 ORG:Salva Srl;
-TITLE:Commercial Agent\nRefractories Engineer
+TITLE:Commercial Agent Refractories Engineer
 EMAIL;type=INTERNET;type=WORK;type=pref:sikalidis@mail.ru
 TEL;type=WORK;type=pref:+30 22270 32709
 TEL;type=CELL:+30 6994 199000
 TEL;type=HOME:+30 22270 32709
 TEL;type=WORK:+30 22270 32709
-item1.ADR;type=WORK;type=pref:;;Limni Evias;Limni;;GR-340 05;Greece
+item1.ADR;type=WORK;type=pref:;;Limni Evias\nLimni;;;GR-340 05;Greece
 item1.X-ABADR:gr
-item2.URL;type=pref:http\:coming soon
+item2.URL;type=pref:en.salva.it
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
